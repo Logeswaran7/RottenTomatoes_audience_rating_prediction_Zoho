@@ -1,4 +1,4 @@
-# Tomatometer Audience Rating Prediction
+# RottenTomatoes Audience Rating Prediction
 
 ## Table of Contents
 
